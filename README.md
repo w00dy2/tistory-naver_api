@@ -17,3 +17,12 @@ https://kwoody01.com/
 7. tistory_api를 사용하여 포스팅을 작성한다.<br>
    write_ti()<br>
 9. crontab을 사용하여 서버에서 주기적인 위 프로세스를 진행하도록 설정한다.
+
+## 코드 실행 결과
+- 목록 <br>
+![image](https://github.com/w00dy2/tistory-naver_api/assets/123388251/af20a8ff-c4a0-47b0-ab0f-82ebf8df8f87)
+<br>
+
+- 상세내용 <br>
+
+![image](https://github.com/w00dy2/tistory-naver_api/assets/123388251/99cdd725-4d37-43a1-93be-f7ed08906ad5)
